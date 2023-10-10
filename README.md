@@ -2,7 +2,7 @@
 Assignment 2 for CS303
 
 NOTE:
-  Headers aren't in the program. I attempted to split the program, but for unknown reasons, the program would crash. 
+  Headers aren't in the program. I attempted to split the program, but for unknown reasons, the program would crash.(Check the image to see this issue)
   The program was written in replit.
 
 Running the program:
